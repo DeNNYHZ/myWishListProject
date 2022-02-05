@@ -49,6 +49,7 @@ public class Main {
 }
 
 /*
+Example :
 400.000
 950.000
 200.000
